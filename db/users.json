@@ -1,1 +1,17 @@
-[{"id":1,"name":"Avet","email":"avet@gmail.com"},{"id":2,"name":"Mila","email":"mila@gmail.com"},{"id":2013,"name":"Ani","email":"ani@gmail.com"}]
+[
+    {
+        "id": 1,
+        "name": "Avet",
+        "email": "avet@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Mila",
+        "email": "mila@gmail.com"
+    },
+    {
+        "id": 2013,
+        "name": "Ani",
+        "email": "ani@gmail.com"
+    }
+]
